@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Home Page for Git Practice</title>
+        <title>Partner 1 Git Practice</title>
     </head>
     <body>
-        Hopefully we laern to merge the hard way.
+        Hopefully we learn to merge the hard way.
     </body>
 </html>
