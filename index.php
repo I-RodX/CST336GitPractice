@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title></title>
+        <title>Home Page for Git Practice</title>
     </head>
     <body>
-        <div>
-            <h1>Labs</h1>
-        </div>
+        Hopefully we laern to merge the hard way.
     </body>
 </html>
